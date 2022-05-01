@@ -1,0 +1,7 @@
+tqdm
+sklearn
+scipy
+seaborn
+networkx
+keras
+tensorflow-macos
